@@ -7,14 +7,6 @@
 	<p>GCP Data Engineer • Python • SQL • Spark • Airflow • dbt</p>
 </div>
 
-<p align="center">
-	<!-- GitHub readme stats -->
-	<img src="https://github-readme-stats.vercel.app/api?username=harmatiuk&show_icons=true&theme=radical" alt="harmatiuk's github stats" />
-	&nbsp;
-	<!-- Top languages -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmatiuk&layout=compact&theme=radical" alt="top languages" />
-</p>
-
 > “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
 
 ## Olá / Hi 👋
