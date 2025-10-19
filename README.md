@@ -1,12 +1,6 @@
 # Lucas Harmatiuk
 ## Data Engineering Specialist I
 
-<div align="center">
-	<img src="https://github.com/harmatiuk.png" width="96" alt="avatar" style="border-radius:50%"/>
-	<h4>Data Engineering Specialist I @ Grupo Boticário</h4>
-	<p>GCP Data Engineer • Python • SQL • Spark • Airflow • dbt</p>
-</div>
-
 > “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
 
 ## Hi 👋
@@ -19,8 +13,7 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 * 🚀 Design and implement scalable, reliable ETL/ELT pipelines
 * 🧰 Build data transformations with dbt, Spark and Beam
-* ☁️ Deploy and orchestration on GCP & AWS (Dataflow, BigQuery, DataProc)
-* 🔁 Orchestration with Airflow (Astronomer certified) and CI/CD automation
+* ☁️ Deploy and orchestration on GCP (Composer, Dataflow, BigQuery, DataProc) & AWS (EMR, Redshift, MWAA, Firehose) 
 * 🛠️ APIs with FastAPI to expose data and integrations
 
 ---
