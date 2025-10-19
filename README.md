@@ -24,6 +24,7 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 * 🛠️ Transformations & Modeling:
   * GCP: Composer, Dataflow, BigQuery, DataProc, Cloud Functions
   * AWS: EMR, Redshift, MWAA, Firehose, Athena, Glue, Lambda functions
+  * DBT
 * 📊 BI / Observability: Power BI, Metabase
 * 🧑‍💻 Dev & Infra: Git, GitHub, FastAPI, and IAC with Terraform
 * 🗄️ Databases: modeling, performance and query tuning
