@@ -6,7 +6,6 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 > “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
 
-
 ---
 
 ## What I do
@@ -39,8 +38,8 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 ## Contact
 
-+- 🔗 LinkedIn: https://www.linkedin.com/in/harmatiuk/
-+- 🐙 GitHub: https://github.com/harmatiuk
+* 🔗 LinkedIn: https://www.linkedin.com/in/harmatiuk/
+* 🐙 GitHub: https://github.com/harmatiuk
 
 ---
 
