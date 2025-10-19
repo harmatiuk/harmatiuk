@@ -12,7 +12,7 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 * 🚀 Design and implement scalable, reliable ETL/ELT pipelines
 * 🧰 Build data transformations with SQL and Python
-* ☁️ Deploy and orchestration on GCP (Composer, Dataflow, BigQuery, DataProc) & AWS (EMR, Redshift, MWAA, Firehose) 
+* ☁️ Deploy and orchestration on GCP (Composer, Dataflow, BigQuery, DataProc) & AWS (EMR, Redshift, MWAA, Firehose, Athena, Glue) 
 * 🛠️ APIs with FastAPI to expose data and integrations
 
 ---
