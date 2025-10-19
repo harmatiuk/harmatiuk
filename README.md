@@ -1,10 +1,4 @@
 # Lucas Harmatiuk
-
----
-
-## Data Engineering Specialist I
-
----
  
 > “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
 
@@ -42,14 +36,14 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 ---
 
-## Contato / Contact
+## Contact
 
 +- 🔗 LinkedIn: https://www.linkedin.com/in/harmatiuk/
 +- 🐙 GitHub: https://github.com/harmatiuk
 
 ---
 
-## Versão curta / Short version
+## Short version
 
 Lucas "Harma" Harmatiuk — Data Engineering Specialist I @ Grupo Boticário. GCP Data Engineer • Python • SQL • Spark • Airflow • dbt.
 
