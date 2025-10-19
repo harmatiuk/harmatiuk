@@ -1,4 +1,6 @@
 # Lucas Harmatiuk
+
+* Data Engineering Specialist I @ Grupo Boticário. GCP & AWS Data Engineer • Python • SQL • Spark • Airflow • dbt.
  
 ## Hi 👋
 
@@ -43,8 +45,3 @@ I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engi
 
 ---
 
-## Short version
-
-Lucas "Harma" Harmatiuk — Data Engineering Specialist I @ Grupo Boticário. GCP Data Engineer • Python • SQL • Spark • Airflow • dbt.
-
----
