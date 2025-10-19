@@ -1,4 +1,4 @@
-# Lucas Harmatiuk (RAR-ma-tiuk)
+# Lucas Harmatiuk
  
 ## Hi 👋
 
