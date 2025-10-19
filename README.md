@@ -1,6 +1,4 @@
 # Lucas Harmatiuk
-
-* Data Engineering Specialist I @ Grupo Boticário. GCP & AWS Data Engineer • Python • SQL • Spark • Airflow • dbt.
  
 ## Hi 👋
 
