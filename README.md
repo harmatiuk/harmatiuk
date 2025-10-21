@@ -2,7 +2,8 @@
  
 ## Hi 👋
 
-I'm Lucas Harmatiuk (pronounced RAR-ma-tiuk), but call me Harma. I'm a Data Engineering Specialist I at Grupo Boticário, building reliable data products and pipelines with a focus on observability and business impact.
+My name is Lucas Harmatiuk (pronounced RAR-ma-tiuk), but you can call me Harma.
+I have 7 years of experience working with data and I'm a Data Engineering Specialist at Grupo Boticário, building reliable data products and pipelines with a focus on observability and business impact.
 
 > “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
 
